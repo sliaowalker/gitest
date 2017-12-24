@@ -4,4 +4,4 @@ git is need by me
 the project push github
 add new branch dev
 I'm master
-modify in dev
+modiy in dev
